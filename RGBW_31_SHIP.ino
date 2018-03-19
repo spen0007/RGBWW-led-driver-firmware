@@ -48,9 +48,9 @@
  * Jeremy Saglimbeni - 2013
  * 
  * Added binary mode
- * divided blue by 2, as the resistor is different on the blue
- * channel and its brighter per bit
- * 
+ * divided blue output by 2, as the resistor is different on the blue
+ * channel and it is therefore brighter per bit
+ * spen0007 - 2016
  * 
  * 
  */
